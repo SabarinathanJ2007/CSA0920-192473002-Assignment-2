@@ -1,0 +1,11 @@
+build/
+docs/
+*.class
+*.docx
+*.pdf
+Task*/Answer.md
+verification.txt
+Task*/results/execution.txt
+Thumbs.db
+desktop.ini
+
